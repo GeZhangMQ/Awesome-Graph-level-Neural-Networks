@@ -34,3 +34,5 @@
 |Weisfeiler and leman go neural: Higher-order graph neural networks|AAAI|2019|C.Morris et al.|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4384)|
 |Provably powerful graph networks|NeurIPS|2019|H.Maron et al.|[paper](https://arxiv.org/pdf/1905.11136.pdf)|
 |Improving graph neural network expressivity via subgraph isomorphism counting|arXiv|2020|G.Bouristas et al.|[paper](https://arxiv.org/pdf/2006.09252.pdf)|
+|Relational pooling for graph representations|ICML|2019|R.Murphy et al.| [paper](http://proceedings.mlr.press/v97/murphy19a.html)|
+|A survey on the expressive power of graph neural networks|arXiv|2020|R. Sato| [paper](https://arxiv.org/pdf/2003.04078.pdf)|
