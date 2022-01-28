@@ -111,3 +111,14 @@
 |Pooling architecture search for graph classification|CIKM|2021| L. Wei et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482285)|
 
 
+## Reproducibility, Benchmarks, and Datasets
+
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|  A faircomparison of graph neural networks for graph classification|ICLR|2020| F. Errica et al.| [paper](https://arxiv.org/pdf/1912.09893.pdf)|
+|Benchmarking graph neural networks| arXiv| 2020| V.P. Dwivedi et al.| [paper](https://arxiv.org/pdf/2003.00982.pdf)|
+|Benchmark data sets for graph kernels| /| 2020| C. Morris et al.| [paper](https://chrsmrrs.github. io/datasets/)|
+|Under- standing isomorphism bias in graph data sets|arXiv|2019| S. Ivanov| [paper](https://arxiv.org/pdf/1910.12091.pdf)|
+
+
+
