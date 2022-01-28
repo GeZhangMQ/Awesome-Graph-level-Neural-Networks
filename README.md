@@ -32,4 +32,5 @@
 |On weisfeiler-leman invariance: subgraph counts and related graph properties|J Comput Syst Sci|2020|V.Arvind et al.|[paper](https://reader.elsevier.com/reader/sd/pii/S0022000020300386?token=481D32DD836A879706DFAFBEC01E3D860F34A4301D13562BD9543275B9EA517DE698D7CBDD66282E92FF1B11EE226186&originRegion=us-east-1&originCreation=20220128052715)|
 |Can graph neural networks count substructures|NeurIPS|2020|Z.Chen et al.|[paper](https://arxiv.org/pdf/2002.04025.pdf)|
 |Weisfeiler and leman go neural: Higher-order graph neural networks|AAAI|2019|C.Morris et al.|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4384)|
-
+|Provably powerful graph networks|NeurIPS|2019|H.Maron et al.|[paper](https://arxiv.org/pdf/1905.11136.pdf)|
+|Improving graph neural network expressivity via subgraph isomorphism counting|arXiv|2020|G.Bouristas et al.|[paper](https://arxiv.org/pdf/2006.09252.pdf)|
