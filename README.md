@@ -56,4 +56,11 @@
 |Few- shot learning on graphs via super-classes based on graph spectral measures|ICLR|2021|J. Chauhan et al|[paper](https://arxiv.org/pdf/2002.12815.pdf)|
 |On the bottleneck of graph neural networks and its practical implications|ICLR|2021| U.Alon et al.|[paper](https://arxiv.org/pdf/2006.05205.pdf)|
 
-
+### Explaining GLNNs-GNNs’ Predictions
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Xgnn:towards model-level explanations of graph neural networks| KDD| 2020| H. Yuan et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403085)|
+|Parameterized explainer for graph neural network|NeurIPS|2020| D. Luo et al.|[paper](https://arxiv.org/pdf/2011.04573.pdf)|
+|Gnnex- plainer: Generating explanations for graph neural networks|NeurIPS|2019| R. Ying et al.|[paper](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html)|
+|Graphlime: Local interpretable model explanations for graph neural networks|arXiv|2020|Q. Huang et al.|[paper](https://arxiv.org/pdf/2001.06216.pdf)|
+|Ex- plainability methods for graph convolutional neural networks|CVPR|2020| P.E.Pope|[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)|
