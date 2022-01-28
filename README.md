@@ -64,3 +64,20 @@
 |Gnnex- plainer: Generating explanations for graph neural networks|NeurIPS|2019| R. Ying et al.|[paper](https://proceedings.neurips.cc/paper/2019/hash/d80b7040b773199015de6d3b4293c8ff-Abstract.html)|
 |Graphlime: Local interpretable model explanations for graph neural networks|arXiv|2020|Q. Huang et al.|[paper](https://arxiv.org/pdf/2001.06216.pdf)|
 |Ex- plainability methods for graph convolutional neural networks|CVPR|2020| P.E.Pope|[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)|
+
+### GLNNs-GNNs Combined with Other Methods
+#### Combining GLNNs-GNNs with Contrastive Learning
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Info- graph: Unsupervised and semi-supervised graph-level represen- tation learning via mutual information maximization|ICLR|2020| F. Sun et al.|[paper](https://arxiv.org/pdf/1908.01000.pdf)|
+|Graph contrastive learning with augmentations|NeurIPS|2020|Y. You et al.| [paper](https://proceedings.neurips.cc/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)|
+|Gcc: Graph con- trastive coding for graph neural network pre-training|KDD|2020| J. Qiu et al.|[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403168)|
+
+#### Combining GLNNs-GNNs with GKs
+
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Convolutional kernel networks for graph-structured data| ICLR|2020| D. Chen et al.| [paper](http://proceedings.mlr.press/v119/chen20h.html)|
+|Graph neural tangent kernel: Fusing graph neural networks with graph kernels|NeurIPS|2019|S.S.Du et al.|[paper](https://proceedings.neurips.cc/paper/2019/file/663fd3c5144fd10bd5ca6611a9a5b92d-Paper.pdf)|
+|Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels| WWW| 2021| Q.Long et al.|[paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449951)|
+
