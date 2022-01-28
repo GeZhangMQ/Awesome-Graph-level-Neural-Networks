@@ -1,6 +1,5 @@
 # Awesome-Graph-level-Neural-Networks
 
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+|  paper title   | venue  | yeas| authors|Materials|Code|
+|  ----  | ----  | ----   | ----| ----| ----| ----|
+| Learning convolutional neural networks for graphs  | ICML | 2016 | M. Niepert et al| http://proceedings.mlr.press/v48/niepert16.pdf| x|
