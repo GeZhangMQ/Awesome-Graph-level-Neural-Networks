@@ -81,3 +81,16 @@
 |Graph neural tangent kernel: Fusing graph neural networks with graph kernels|NeurIPS|2019|S.S.Du et al.|[paper](https://proceedings.neurips.cc/paper/2019/file/663fd3c5144fd10bd5ca6611a9a5b92d-Paper.pdf)|
 |Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels| WWW| 2021| Q.Long et al.|[paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449951)|
 
+## GLNNS: Graph Pooling
+
+### Global Pooling
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|An end-to-end deep learning architecture for graph classification| AAAI| 2018| M.Zhang et al.| [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11782)|
+|Learnable structural semantic readout for graph classification| ICDM| 2021| D. Lee| [paper](https://arxiv.org/pdf/2111.11523.pdf)|
+
+### Hierarchical Pooling
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+
+
