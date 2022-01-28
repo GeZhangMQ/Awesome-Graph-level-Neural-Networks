@@ -54,4 +54,6 @@
 |From local structures to size generalization in graph neural networks|ICML|2021|G. Yehudai et al.|[paper](http://proceedings.mlr.press/v139/yehudai21a.html)|
 |Adaptive-step graph meta-learner for few-shot graph classification|CIKM|2020|N. Ma et al.|[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411951)|
 |Few- shot learning on graphs via super-classes based on graph spectral measures|ICLR|2021|J. Chauhan et al|[paper](https://arxiv.org/pdf/2002.12815.pdf)|
-|On the bottleneck of graph neural networks and its practical implications|ICLR|2021| U.Alon et al.|[paper](https://arxiv.org/pdf/2006.05205.pdf|
+|On the bottleneck of graph neural networks and its practical implications|ICLR|2021| U.Alon et al.|[paper](https://arxiv.org/pdf/2006.05205.pdf)|
+
+
