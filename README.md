@@ -20,4 +20,5 @@
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Graphrnn: Gener-ating realistic graphs with deep auto-regressive models|ICML|2018| J. You et al.|[paper](http://proceedings.mlr.press/v80/you18a.html)|
-|Graph classification using structural attention|KDD|2018| J.B.Lee|[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219980)|
+|Graph classification using structural attention|KDD|2018| J.B.Lee et al.|[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219980)|
+|Janossy pooling: Learning deep permutation-invariant functions for variable-size inputs|ICLR|2019|R.L.Murphy|[paper](https://arxiv.org/pdf/1811.01900.pdf)|
