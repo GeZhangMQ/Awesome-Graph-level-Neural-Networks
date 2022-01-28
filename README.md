@@ -36,3 +36,6 @@
 |Improving graph neural network expressivity via subgraph isomorphism counting|arXiv|2020|G.Bouristas et al.|[paper](https://arxiv.org/pdf/2006.09252.pdf)|
 |Relational pooling for graph representations|ICML|2019|R.Murphy et al.| [paper](http://proceedings.mlr.press/v97/murphy19a.html)|
 |A survey on the expressive power of graph neural networks|arXiv|2020|R. Sato| [paper](https://arxiv.org/pdf/2003.04078.pdf)|
+|Breaking the limits of message passing graph neural networks|ICML|2021|M.Balcilar|[paper](https://arxiv.org/pdf/2106.04319.pdf)|
+|Weisfeiler and lehman go topological: Message passing simplicial networks| ICML|2021|C.Bodnar|[paper](https://arxiv.org/pdf/2103.03212.pdf)|
+|Expressiveness and approxima- tion properties of graph neural networks|ICLR|2022|[paper](https://openreview.net/forum?id=wIzUeM3TAU)|
