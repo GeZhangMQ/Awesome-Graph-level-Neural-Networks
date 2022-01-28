@@ -132,3 +132,16 @@
 |Natural graph networks|NeurIPS|2020|P. Hann et al.| [paper](https://arxiv.org/pdf/2007.08349.pdf)|
 |GemNet: Universal Directional Graph Neural Networks for Molecules|NeurIPS|2021| J. Klicpera et al.| [paper](https://arxiv.org/pdf/2106.08903.pdf)|
 |E(n) equivariant graph neural networks| ICML| 2021| V. G. Satorras et al.| [paper](https://arxiv.org/pdf/2102.09844.pdf)|
+
+### Graph Pooling with Difference Awareness
+### Imbalanced Graph-level Learning
+### Out-of-Distribution Generalization of GLNNs
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Size-invariant graph representations for graph classification extrapolations| ICML|2021| B. Bevilacqua et al.| [paper](https://arxiv.org/pdf/2103.05045.pdf)|
+
+### Performant Parameters of GLNNs
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Parameter Prediction for Unseen Deep Architectures|NeurIPS|2021| B. Knyazev et al.| [paper](https://proceedings.neurips.cc/paper/2021/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)|
+
