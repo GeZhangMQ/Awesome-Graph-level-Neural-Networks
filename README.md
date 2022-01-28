@@ -103,3 +103,11 @@
 |Structpool: Structured graph pooling via conditional random fields|ICLR|2020|H. Yuan|[paper](https://par.nsf.gov/servlets/purl/10159731)|
 |Asap: Adaptive structure aware pooling for learning hierarchical graph representations|AAAI|2020|E. Ranjan et al.|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5997)|
 
+
+### Other Discussions about Graph Pooling
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Rethinking pooling in graph neural networks|NeurIPS|2020| D. Mesquita et al.| [paper](https://arxiv.org/pdf/2010.11418.pdf)|
+|Pooling architecture search for graph classification|CIKM|2021| L. Wei et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482285)|
+
+
