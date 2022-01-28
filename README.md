@@ -1,6 +1,5 @@
 # Awesome-Graph-level-Neural-Networks
 
-
 ## GLNNs - Deep Neural Networks (DNNs)
 ### Convolution Neural Networks (CNN)-based Approaches
 |  paper title   | venue  | yeas   | authors|Materials|
