@@ -1,8 +1,8 @@
 # Awesome-Graph-level-Neural-Networks
 
 
-# GLNNs - Deep Neural Networks (DNNs)
-## Convolution Neural Networks (CNNs)-based Approaches
+## GLNNs - Deep Neural Networks (DNNs)
+### Convolution Neural Networks (CNNs)-based Approaches
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 | Learning convolutional neural networks for graphs  | ICML | 2016 | M. Niepert et al.| [paper](http://proceedings.mlr.press/v48/niepert16.pdf)|
