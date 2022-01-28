@@ -112,10 +112,15 @@
 
 ## Reproducibility, Benchmarks, and Datasets
 
+### Benchmarks
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |  A faircomparison of graph neural networks for graph classification|ICLR|2020| F. Errica et al.| [paper](https://arxiv.org/pdf/1912.09893.pdf)|
 |Benchmarking graph neural networks| arXiv| 2020| V.P. Dwivedi et al.| [paper](https://arxiv.org/pdf/2003.00982.pdf)|
+
+### Datasets
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
 |Benchmark data sets for graph kernels| /| 2020| C. Morris et al.| [paper](https://chrsmrrs.github.io/datasets/)|
 |Understanding isomorphism bias in graph data sets|arXiv|2019| S. Ivanov et al.| [paper](https://arxiv.org/pdf/1910.12091.pdf)|
 |A large-scale database for graph representation learning|NeurIPS|2021| S. Freitas et al.| [paper](https://arxiv.org/pdf/2011.07682.pdf)|
