@@ -122,3 +122,12 @@
 |A large-scale database for graph representation learning|NeurIPS|2021| S. Freitas et al.| [paper](https://arxiv.org/pdf/2011.07682.pdf)|
 |Open graph benchmark: Datasets for machine learning on graphs|NeurIPS|2020| W. Hu et al.|[paper](https://arxiv.org/pdf/2005.00687.pdf)|
 
+## Future Directions
+
+### Graph Transformation-equivariance
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Covariant compositional networks for learning graphs| ICLR| 2018| R. Kondor et al.| [paper](https://arxiv.org/pdf/1801.02144.pdf)|
+|new perspective on “how graph neurla networks go beyond weisfeiler-lehman?”|ICLR|2022| Anonymous| [paper](https://openreview.net/forum?id=uxgg9o7bI_3)|
+|Natural graph networks|NeurIPS|2020|P. Hann et al.| [paper](https://arxiv.org/pdf/2007.08349.pdf)|
+|GemNet: Universal Directional Graph Neural etworks for Molecules|NeurIPS|2021| J. Klicpera et al.| 
