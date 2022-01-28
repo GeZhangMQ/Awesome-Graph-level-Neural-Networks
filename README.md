@@ -15,3 +15,8 @@
 |Graph Capsule Convolutional Neural Networks| ICML&IJCAI Workshop| 2018| S. Verma et al.| [paper](https://arxiv.org/pdf/1805.08090.pdf)|
 |Capsule graph neural network|ICLR|2018| X. Zhang et al.|[paper](https://openreview.net/pdf?id=Byl8BnRcYm)|
 
+### Recurrent Neural Networks (RNN)-based Approaches
+
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+||Graphrnn: Gener-ating realistic graphs with deep auto-regressive models|ICML|2018| J. You et al.|[paper](http://proceedings.mlr.press/v80/you18a.html)|
