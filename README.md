@@ -145,3 +145,8 @@
 |  ----          | ----   | ----   |    ----| ----|
 |Parameter Prediction for Unseen Deep Architectures|NeurIPS|2021| B. Knyazev et al.| [paper](https://proceedings.neurips.cc/paper/2021/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)|
 
+### Applying GLNNs to learn Brain Networks
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Ex- plainable classification of brain networks via contrast subgraphs|KDD|2020| T. Lanciano et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403383)|
+### Applying GLNNs to learn Brain Networks
