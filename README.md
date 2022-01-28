@@ -47,4 +47,9 @@
 |Fast attributed graph embedding via density of states|ICDM|2021|S. Sawlani et al.|[paper](https://arxiv.org/pdf/2110.05228.pdf)|
 |Bridging the gap between spectral and spatial domains in graph neural networks|arXiv|2020|M.Balcilar et al.|[paper](https://arxiv.org/pdf/2003.11702.pdf)|
 
+### The Generalization of GLNNs-GNNs
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|How neural networks extrapolate: From feedforward to graph neural networks| ICLR|2021| W. Xu et al.| [paper](https://arxiv.org/pdf/2009.11848.pdf)|
+|From local structures to size generalization in graph neural networks|ICML|2021|G. Yehudai et al.|[paper](http://proceedings.mlr.press/v139/yehudai21a.html)|
 
