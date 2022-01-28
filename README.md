@@ -29,6 +29,5 @@
 |  ----          | ----   | ----   |    ----| ----|
 |Neural message passing for quantum chemistry| ICML|2017| J.Gilmer| [paper](http://proceedings.mlr.press/v70/gilmer17a)|
 |How Powerful are Graph Neural Networks?|NeurIPS|2018| K. Xu| [paper](https://arxiv.org/pdf/1810.00826.pdf)|
-
-
+|On weisfeiler-leman invariance: subgraph counts and related graph properties|J Comput Syst Sci|2020|V.Arvind|[paper](https://reader.elsevier.com/reader/sd/pii/S0022000020300386?token=481D32DD836A879706DFAFBEC01E3D860F34A4301D13562BD9543275B9EA517DE698D7CBDD66282E92FF1B11EE226186&originRegion=us-east-1&originCreation=20220128052715)|
 
