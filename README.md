@@ -138,7 +138,9 @@
 |E(n) equivariant graph neural networks| ICML| 2021| V. G. Satorras et al.| [paper](https://arxiv.org/pdf/2102.09844.pdf)|
 
 ### Graph Pooling with Difference Awareness
+/
 ### Imbalanced Graph-level Learning
+/
 ### Out-of-Distribution Generalization of GLNNs
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
@@ -153,4 +155,5 @@
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Explainable classification of brain networks via contrast subgraphs|KDD|2020| T. Lanciano et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403383)|
-### Applying GLNNs to learn Brain Networks
+### Encoding Relations among Graphs
+/
