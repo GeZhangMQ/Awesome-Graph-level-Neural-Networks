@@ -2,4 +2,4 @@
 
 |  paper title   | venue  | yeas   | authors|Materials|Code|
 |  ----          | ----   | ----   |    ----| ----| ----|
-| Learning convolutional neural networks for graphs  | ICML | 2016 | M. Niepert et al| [paper] [http://proceedings.mlr.press/v48/niepert16.pdf]| x|
+| Learning convolutional neural networks for graphs  | ICML | 2016 | M. Niepert et al| [paper](http://proceedings.mlr.press/v48/niepert16.pdf)| x|
