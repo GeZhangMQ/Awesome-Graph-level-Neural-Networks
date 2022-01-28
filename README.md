@@ -87,10 +87,19 @@
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |An end-to-end deep learning architecture for graph classification| AAAI| 2018| M.Zhang et al.| [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11782)|
-|Learnable structural semantic readout for graph classification| ICDM| 2021| D. Lee| [paper](https://arxiv.org/pdf/2111.11523.pdf)|
+|Learnable structural semantic readout for graph classification| ICDM| 2021| D. Lee et al.| [paper](https://arxiv.org/pdf/2111.11523.pdf)|
 
 ### Hierarchical Pooling
+
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
-
+|Hierarchical graph representation learning with differentiable pooling| NeurIPS| 2018| R. Ying et al.| [paper](https://arxiv.org/pdf/1806.08804.pdf)|
+|Spectral clustering with graph neural networks for graph pooling|ICML|2020| F. M. Bianchi et al.| [paper](http://proceedings.mlr.press/v119/bianchi20a.html)|
+|Memory-based graph networks| ICLR| 2020| A. H. Khasahmadi et al.|[paper](https://openreview.net/forum?id=r1laNeBYPB)|
+|Self-attention graph pooling| ICML| 2019| J. Lee et al.| [paper](http://proceedings.mlr.press/v97/lee19c.html)|
+|Graph u-nets|ICML|2019|H. Gao et al.| 2019| [paper](http://proceedings.mlr.press/v97/gao19a.html)|
+|Towards sparse hierarchical graph classifiers|NeurIPS|2018|C. Cangea et al. |[paper](https://arxiv.org/pdf/1811.01287.pdf)|
+|Graph convolutional networks with eigenpooling|KDD|2019|Y. Ma| [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330982)|
+|Structpool: Structured graph pooling via conditional random fields|ICLR|2020|H. Yuan|[paper](https://par.nsf.gov/servlets/purl/10159731)|
+|Asap: Adaptive structure aware pooling for learning hierarchical graph representations|AAAI|2020|E. Ranjan et al.|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5997)|
 
