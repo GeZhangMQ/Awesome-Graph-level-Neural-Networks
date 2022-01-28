@@ -38,4 +38,13 @@
 |A survey on the expressive power of graph neural networks|arXiv|2020|R. Sato| [paper](https://arxiv.org/pdf/2003.04078.pdf)|
 |Breaking the limits of message passing graph neural networks|ICML|2021|M.Balcilar|[paper](https://arxiv.org/pdf/2106.04319.pdf)|
 |Weisfeiler and lehman go topological: Message passing simplicial networks| ICML|2021|C.Bodnar|[paper](https://arxiv.org/pdf/2103.03212.pdf)|
-|Expressiveness and approxima- tion properties of graph neural networks|ICLR|2022|Anonymous[paper](https://openreview.net/forum?id=wIzUeM3TAU)|
+|Expressiveness and approxima- tion properties of graph neural networks|ICLR|2022|Anonymous|[paper](https://openreview.net/forum?id=wIzUeM3TAU)|
+|An- alyzing the expressive power of graph neural networks in a spec- tral perspective|ICLR|2021|M.Balcilar|[paper](https://openreview.net/forum?id=-qh0M9XWxnv)|
+### Spectral GLNNs-GNNs
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|How framelets enhance graph neural networks|ICML|2021|X.Zheng et al.| [paper](http://proceedings.mlr.press/v139/zheng21c/zheng21c-supp.pdf)|
+|Fast attributed graph embedding via density of states|ICDM|2021|S. Sawlani et al.|[paper](https://arxiv.org/pdf/2110.05228.pdf)|
+|Bridging the gap between spectral and spatial domains in graph neural networks|arXiv|2020|M.Balcilar et al.|[paper](https://arxiv.org/pdf/2003.11702.pdf)|
+
+
