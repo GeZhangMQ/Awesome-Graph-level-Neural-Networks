@@ -1,4 +1,4 @@
-# Awesome-Graph-level-Neural-Networks
+# Awesome-Graph-level-Neural-Networks (GLNNs)
 
 # Graph-level Neural Networks (GLNNs)
 
