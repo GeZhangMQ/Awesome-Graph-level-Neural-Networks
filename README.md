@@ -1,20 +1,20 @@
 # Awesome-Graph-level-Neural-Networks (Awesome GLNNs)
 
-## GLNNs - Deep Neural Networks (DNNs)
-### Convolution Neural Networks (CNN)-based Approaches
+## 4. GLNNs - Deep Neural Networks (DNNs)
+### 4.1 Convolution Neural Networks (CNN)-based Approaches
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 | Learning convolutional neural networks for graphs  | ICML | 2016 | M. Niepert et al.| [paper](http://proceedings.mlr.press/v48/niepert16.pdf)|
 |Diffusion- convolutional neural networks            | NeurIPs| 2016| J. Atwood et al.|[paper](https://cpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/9/287/files/2019/08/Towsley-6-6212-diffusion-convolutional-neural-networks.pdf)|
 |Dynamic edge-conditioned filters in convolutional neural networks on graphs|CVPR| 2017|M. Simonovsky et al. |[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Simonovsky_Dynamic_Edge-Conditioned_Filters_CVPR_2017_paper.pdf)|
 
-### Capsule Neural Networks (CapsNet)-based Approaches
+### 4.2 Capsule Neural Networks (CapsNet)-based Approaches
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Graph Capsule Convolutional Neural Networks| ICML&IJCAI Workshop| 2018| S. Verma et al.| [paper](https://arxiv.org/pdf/1805.08090.pdf)|
 |Capsule graph neural network|ICLR|2018| X. Zhang et al.|[paper](https://openreview.net/pdf?id=Byl8BnRcYm)|
 
-### Recurrent Neural Networks (RNN)-based Approaches
+### 4.3 Recurrent Neural Networks (RNN)-based Approaches
 
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
@@ -22,8 +22,8 @@
 |Graph classification using structural attention|KDD|2018| J. B. Lee et al.|[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219980)|
 |Janossy pooling: Learning deep permutation-invariant functions for variable-size inputs|ICLR|2019|R. L. Murphy et al.|[paper](https://arxiv.org/pdf/1811.01900.pdf)|
 
-## GLNNs - Graph Nueral Networks (GNNs)
-### The expressivity of GLNNs-GNNs
+## 5. GLNNs - Graph Nueral Networks (GNNs)
+### 5.1 The expressivity of GLNNs-GNNs
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Neural message passing for quantum chemistry| ICML|2017| J. Gilmer et al.| [paper](http://proceedings.mlr.press/v70/gilmer17a)|
@@ -39,14 +39,14 @@
 |Weisfeiler and lehman go topological: Message passing simplicial networks| ICML|2021|C. Bodnar|[paper](https://arxiv.org/pdf/2103.03212.pdf)|
 |Expressiveness and approxima- tion properties of graph neural networks|ICLR|2022|Anonymous|[paper](https://openreview.net/forum?id=wIzUeM3TAU)|
 |An- alyzing the expressive power of graph neural networks in a spec- tral perspective|ICLR|2021|M. Balcilar|[paper](https://openreview.net/forum?id=-qh0M9XWxnv)|
-### Spectral GLNNs-GNNs
+### 5.2 Spectral GLNNs-GNNs
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |How framelets enhance graph neural networks|ICML|2021|X. Zheng et al.| [paper](http://proceedings.mlr.press/v139/zheng21c/zheng21c-supp.pdf)|
 |Fast attributed graph embedding via density of states|ICDM|2021|S. Sawlani et al.|[paper](https://arxiv.org/pdf/2110.05228.pdf)|
 |Bridging the gap between spectral and spatial domains in graph neural networks|arXiv|2020|M. Balcilar et al.|[paper](https://arxiv.org/pdf/2003.11702.pdf)|
 
-### The Generalization of GLNNs-GNNs
+### 5.3 The Generalization of GLNNs-GNNs
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |How neural networks extrapolate: From feedforward to graph neural networks| ICLR|2021| W. Xu et al.| [paper](https://arxiv.org/pdf/2009.11848.pdf)|
@@ -55,7 +55,7 @@
 |Few- shot learning on graphs via super-classes based on graph spectral measures|ICLR|2021|J. Chauhan et al|[paper](https://arxiv.org/pdf/2002.12815.pdf)|
 |On the bottleneck of graph neural networks and its practical implications|ICLR|2021| U. Alon et al.|[paper](https://arxiv.org/pdf/2006.05205.pdf)|
 
-### Explaining GLNNs-GNNs’ Predictions
+### 5.4 Explaining GLNNs-GNNs’ Predictions
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Xgnn:towards model-level explanations of graph neural networks| KDD| 2020| H. Yuan et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403085)|
@@ -64,7 +64,7 @@
 |Graphlime: Local interpretable model explanations for graph neural networks|arXiv|2020|Q. Huang et al.|[paper](https://arxiv.org/pdf/2001.06216.pdf)|
 |Ex- plainability methods for graph convolutional neural networks|CVPR|2020| P. E. Pope|[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)|
 
-### GLNNs-GNNs Combined with Other Methods
+### 5.5 GLNNs-GNNs Combined with Other Methods
 #### Combining GLNNs-GNNs with Contrastive Learning
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
@@ -80,15 +80,15 @@
 |Graph neural tangent kernel: Fusing graph neural networks with graph kernels|NeurIPS|2019|S. S. Du et al.|[paper](https://proceedings.neurips.cc/paper/2019/file/663fd3c5144fd10bd5ca6611a9a5b92d-Paper.pdf)|
 |Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels| WWW| 2021| Q. Long et al.|[paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449951)|
 
-## GLNNS: Graph Pooling
+## 6. GLNNS: Graph Pooling
 
-### Global Pooling
+### 6.1 Global Pooling
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |An end-to-end deep learning architecture for graph classification| AAAI| 2018| M. Zhang et al.| [paper](https://ojs.aaai.org/index.php/AAAI/article/view/11782)|
 |Learnable structural semantic readout for graph classification| ICDM| 2021| D. Lee et al.| [paper](https://arxiv.org/pdf/2111.11523.pdf)|
 
-### Hierarchical Pooling
+### 6.2 Hierarchical Pooling
 
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
@@ -103,14 +103,14 @@
 |Asap: Adaptive structure aware pooling for learning hierarchical graph representations|AAAI|2020|E. Ranjan et al.|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5997)|
 
 
-### Other Discussions about Graph Pooling
+### 6.3 Other Discussions about Graph Pooling
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Rethinking pooling in graph neural networks|NeurIPS|2020| D. Mesquita et al.| [paper](https://arxiv.org/pdf/2010.11418.pdf)|
 |Pooling architecture search for graph classification|CIKM|2021| L. Wei et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482285)|
 
 
-## Reproducibility, Benchmarks, and Datasets
+## 7. Reproducibility, Benchmarks, and Datasets
 
 ### Benchmarks
 |  paper title   | venue  | yeas   | authors|Materials|
@@ -126,9 +126,9 @@
 |A large-scale database for graph representation learning|NeurIPS|2021| S. Freitas et al.| [paper](https://arxiv.org/pdf/2011.07682.pdf)|
 |Open graph benchmark: Datasets for machine learning on graphs|NeurIPS|2020| W. Hu et al.|[paper](https://arxiv.org/pdf/2005.00687.pdf)|
 
-## Future Directions
+## 8. Future Directions
 
-### Graph Transformation-equivariance
+### 8.1 Graph Transformation-equivariance
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Covariant compositional networks for learning graphs| ICLR| 2018| R. Kondor et al.| [paper](https://arxiv.org/pdf/1801.02144.pdf)|
@@ -137,23 +137,23 @@
 |GemNet: Universal Directional Graph Neural Networks for Molecules|NeurIPS|2021| J. Klicpera et al.| [paper](https://arxiv.org/pdf/2106.08903.pdf)|
 |E(n) equivariant graph neural networks| ICML| 2021| V. G. Satorras et al.| [paper](https://arxiv.org/pdf/2102.09844.pdf)|
 
-### Graph Pooling with Difference Awareness
+### 8.2 Graph Pooling with Difference Awareness
 /
-### Imbalanced Graph-level Learning
+### 8.3 Imbalanced Graph-level Learning
 /
-### Out-of-Distribution Generalization of GLNNs
+### 8.4 Out-of-Distribution Generalization of GLNNs
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Size-invariant graph representations for graph classification extrapolations| ICML|2021| B. Bevilacqua et al.| [paper](https://arxiv.org/pdf/2103.05045.pdf)|
 
-### Performant Parameters of GLNNs
+### 8.5 Performant Parameters of GLNNs
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Parameter Prediction for Unseen Deep Architectures|NeurIPS|2021| B. Knyazev et al.| [paper](https://proceedings.neurips.cc/paper/2021/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)|
 
-### Applying GLNNs to learn Brain Networks
+### 8.6 Applying GLNNs to learn Brain Networks
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Explainable classification of brain networks via contrast subgraphs|KDD|2020| T. Lanciano et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403383)|
-### Encoding Relations among Graphs
+### 8.7 Encoding Relations among Graphs
 /
