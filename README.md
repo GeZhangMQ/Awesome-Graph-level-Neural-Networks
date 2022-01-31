@@ -103,7 +103,7 @@
 |Asap: Adaptive structure aware pooling for learning hierarchical graph representations|AAAI|2020|E. Ranjan et al.|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5997)|
 
 
-### 6.3 Other Discussions about Graph Pooling
+### 6.3 Emerging Graph Pooling Techniques
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
 |Rethinking pooling in graph neural networks|NeurIPS|2020| D. Mesquita et al.| [paper](https://arxiv.org/pdf/2010.11418.pdf)|
