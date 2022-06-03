@@ -156,4 +156,6 @@
 |  ----          | ----   | ----   |    ----| ----|
 |Explainable classification of brain networks via contrast subgraphs|KDD|2020| T. Lanciano et al.| [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403383)|
 ### 8.7 Encoding Relations among Graphs
-/
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Gognn: Graph of graphs neural network for predicting structured entity interactions|IJCAI|2020| H. Wang et al.| [paper](https://arxiv.org/pdf/2005.05537.pdf)|
