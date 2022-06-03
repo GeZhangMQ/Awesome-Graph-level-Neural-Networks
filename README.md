@@ -140,7 +140,10 @@
 ### 8.2 Graph Pooling with Difference Awareness
 /
 ### 8.3 Imbalanced Graph-level Learning
-/
+|  paper title   | venue  | yeas   | authors|Materials|
+|  ----          | ----   | ----   |    ----| ----|
+|Imbalanced Graph Classification via Graph-of-Graph Neural Networks|arXiv|2021| Y. Wang et al.| [paper](https://arxiv.org/abs/2112.00238)|
+
 ### 8.4 Out-of-Distribution Generalization of GLNNs
 |  paper title   | venue  | yeas   | authors|Materials|
 |  ----          | ----   | ----   |    ----| ----|
